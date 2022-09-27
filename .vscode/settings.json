@@ -1,0 +1,10 @@
+{
+    "i18next.i18nPaths": "c:/Konovalov/Ulbi/production/public/locales",
+    "scss.validate": false,
+    "css.validate": false,
+    "less.validate": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.stylelint": true
+    },
+}
+
